@@ -1,28 +1,23 @@
 <!--
   GitHub Profile README
   Profile: github.com/GITvedant
-  Design: Premium / Engineering / Minimal
+  Design: Balanced Premium / Engineering / Minimal
 -->
 
 <div align="center">
-
-# Vedant Kanghare
-
-### IT Engineering Student · Android Development · DevOps
-
-**Building with purpose. Learning through engineering.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-GITvedant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITvedant)
-![Location](https://img.shields.io/badge/Based_in-India-2563EB?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Software_Development-0F766E?style=for-the-badge)
-
+  <h1>Vedant Kanghare</h1>
+  <p><strong>IT Engineering Student · Java, Web &amp; Backend</strong></p>
+  <p>Learning Android development and DevOps</p>
+  <p>Building with purpose. Learning through engineering.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Based_in-India-1D4ED8?style=flat-square&amp;labelColor=0F172A" alt="Based in India">
+    <img src="https://img.shields.io/badge/Focus-Software_Engineering-0F766E?style=flat-square&amp;labelColor=0F172A" alt="Focus: Software engineering">
+  </p>
 </div>
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
 I'm **Vedant Kanghare**, an IT Engineering student interested in building reliable, practical software.
 
@@ -32,180 +27,187 @@ I enjoy breaking down complex problems, exploring how systems work, and improvin
 
 > I care about understanding how software works, not just making it work.
 
-- ☕ Strengthening my Java and object-oriented programming skills
-- 📱 Exploring Android application development
-- ⚙️ Learning DevOps, deployment, and development workflows
-- 🧩 Interested in backend systems and software architecture
-- 🏎️ Combining my interest in Formula 1 with software engineering
+---
+
+## 🚀 Featured Engineering Work
+
+### 🏎️ ApexF1
+
+**Formula 1 Engineering & Simulation Platform**
+
+**Status:** Architecture and planning
+
+A portfolio-focused Formula 1 engineering platform designed around simulation, structured data, and interactive engineering workflows.
+
+**Planned architecture:** React · TypeScript · Python · FastAPI
+
+![Planned technology: React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Planned technology: TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![Planned technology: Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+
+**Current focus**
+
+- Architecture and implementation planning
+- Simulation system design
+- Data modeling and interface specifications
+- Feasibility and engineering requirements
+
+Implementation and public release are not yet complete.
 
 ---
 
-## 🚀 Featured engineering work
+### 📈 NIFTY 50 Options Algo Trader
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🏎️ ApexF1</h3>
-<p><strong>Formula 1 Engineering &amp; Simulation Platform</strong></p>
-<p>A portfolio-focused Formula 1 engineering platform designed around simulation, structured data, and interactive engineering workflows.</p>
-<p><strong>Planned architecture</strong></p>
-<p><code>React</code> <code>TypeScript</code> <code>Python</code> <code>FastAPI</code></p>
-<p><strong>Current focus</strong></p>
-<ul>
-  <li>Architecture and implementation planning</li>
-  <li>Simulation system design</li>
-  <li>Data modeling and interface specifications</li>
-  <li>Feasibility and engineering requirements</li>
-</ul>
-<p><strong>Status:</strong> Architecture and planning</p>
-<p><sub>Implementation and public release are not yet complete.</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>📈 NIFTY 50 Options Algo Trader</h3>
-<p><strong>Algorithmic Trading System</strong></p>
-<p>A structured options trading application designed around backend engineering, financial data integrity, risk controls, and auditable workflows.</p>
-<p><strong>Technology</strong></p>
-<p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
-<p><strong>Implemented foundation</strong></p>
-<ul>
-  <li>Backend application skeleton</li>
-  <li>Domain models and database migrations</li>
-  <li>Risk and financial integrity rules</li>
-  <li>Initial testing infrastructure</li>
-</ul>
-<p><strong>Status:</strong> Backend foundation complete; further development ongoing</p>
-<p><a href="https://github.com/GITvedant/algo-trader">Private repository · access required</a></p>
-</td>
-</tr>
+**Algorithmic Trading System**
 
-<tr>
-<td width="50%" valign="top">
-<h3>🌐 Stratlyn Technologies</h3>
-<p><strong>Responsive Web Application</strong></p>
-<p>A modern business website built with a typed frontend stack and a focus on responsive interfaces.</p>
-<p><strong>Technology</strong></p>
-<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code></p>
-<p><strong>Highlights</strong></p>
-<ul>
-  <li>Component-based frontend</li>
-  <li>Responsive web layouts</li>
-  <li>Linting and type-checking scripts</li>
-  <li>Vercel deployment configuration</li>
-</ul>
-<p><strong>Status:</strong> Private website repository; access required</p>
-<p><a href="https://github.com/GITvedant/stratlyn-technologies">Private repository · access required</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>☕ Java Learning Journey</h3>
-<p><strong>Programming Fundamentals &amp; OOP</strong></p>
-<p>A collection of Java exercises documenting my progress while learning programming concepts.</p>
-<p><strong>Technology</strong></p>
-<p><code>Java</code> <code>IntelliJ IDEA</code> <code>Git</code></p>
-<p><strong>Focus areas</strong></p>
-<ul>
-  <li>Control flow and arrays</li>
-  <li>Methods and recursion</li>
-  <li>Classes and objects</li>
-  <li>Inheritance and polymorphism</li>
-  <li>Abstraction and interfaces</li>
-</ul>
-<p><strong>Status:</strong> Ongoing learning</p>
-<p><a href="https://github.com/GITvedant?tab=repositories">Explore repositories</a></p>
-</td>
-</tr>
-</table>
+**Status:** Backend foundation complete; further development ongoing
 
-<sub>Some projects are private or in planning. Repository links may require access, and listed development stages do not imply production deployment.</sub>
+A structured options trading application designed around backend engineering, financial data integrity, risk controls, and auditable workflows.
+
+**Technology:** Python · FastAPI · PostgreSQL · SQLAlchemy
+
+![Technology: Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![Technology: FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Technology: PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Implemented foundation**
+
+- Backend application skeleton
+- Domain models and database migrations
+- Risk and financial integrity rules
+- Initial testing infrastructure
+
+[Private repository · access required](https://github.com/GITvedant/algo-trader)
 
 ---
 
-## 🧰 Technical toolkit
+### 🌐 Stratlyn Technologies
 
-<table>
-<tr>
-<td width="23%"><b>☕ Languages</b></td>
-<td>
+**Responsive Web Application**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript, TypeScript" />
+**Status:** Private website repository; access required
 
-</td>
-</tr>
+A modern business website built with a typed frontend stack and a focus on responsive interfaces.
 
-<tr>
-<td><b>🎨 Frontend & Web</b></td>
-<td>
+**Technology:** React · TypeScript · Vite · Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite" />
+![Technology: React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Technology: TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![Technology: Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-</td>
-</tr>
+**Highlights**
 
-<tr>
-<td><b>⚙️ Backend & Data</b></td>
-<td>
+- Component-based frontend
+- Responsive web layouts
+- Linting and type-checking scripts
+- Vercel deployment configuration
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" alt="FastAPI, PostgreSQL" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>🛠️ Development Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code" />
-
-</td>
-</tr>
-</table>
-
-### 🌱 Currently learning & exploring
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,linux,docker,aws&theme=dark" alt="Android Studio, Kotlin, Linux, Docker, AWS" />
-
-`Android Development` · `DevOps` · `Deployment Workflows` · `Software Architecture`
-
-<sub>Technologies shown reflect coursework, repository work, or current learning interests. They do not imply professional expertise in every tool.</sub>
+[Private repository · access required](https://github.com/GITvedant/stratlyn-technologies)
 
 ---
 
-## 🎯 What I'm focused on
+### ☕ Java Learning Journey
 
-| Area | Current direction |
-|:---|:---|
-| ☕ **Java** | Improving programming fundamentals and OOP |
-| 📱 **Android** | Learning application development concepts |
-| ⚙️ **DevOps** | Exploring Linux, containers, Git, and deployment |
-| 🧠 **Engineering** | Understanding software design and backend architecture |
-| 🏎️ **ApexF1** | Planning a simulation-focused engineering portfolio platform |
+**Programming Fundamentals & OOP**
+
+**Status:** Ongoing learning
+
+A collection of Java exercises documenting my progress while learning programming concepts.
+
+**Technology:** Java · IntelliJ IDEA · Git
+
+![Technology: Java](https://img.shields.io/badge/Java-1F2937?style=flat-square)
+
+**Focus areas**
+
+- Control flow and arrays
+- Methods and recursion
+- Classes and objects
+- Inheritance and polymorphism
+- Abstraction and interfaces
+
+[Explore repositories](https://github.com/GITvedant?tab=repositories)
+
+Some projects are private or in planning. Repository links may require access, and listed development stages do not imply production deployment.
 
 ---
 
-## 📊 GitHub activity
+## 🧰 Technical Toolkit
 
-Statistics cards are temporarily unavailable. View my contributions, repositories, and recent activity on [my GitHub profile](https://github.com/GITvedant).
+Technologies used in my project work and programming exercises.
+
+**Languages**
+
+Java · Python · JavaScript · TypeScript
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&amp;theme=dark&amp;perline=4" alt="Java, Python, JavaScript, TypeScript">
+
+**Frontend &amp; Web**
+
+HTML · CSS · React · Tailwind CSS · Vite
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&amp;theme=dark&amp;perline=4" alt="HTML, CSS, React, Tailwind CSS, Vite">
+
+**Backend &amp; Data**
+
+FastAPI · PostgreSQL · SQLAlchemy
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&amp;theme=dark&amp;perline=2" alt="FastAPI and PostgreSQL">
+
+**Development Tools**
+
+Git · GitHub · IntelliJ IDEA · VS Code
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&amp;theme=dark&amp;perline=4" alt="Git, GitHub, IntelliJ IDEA, VS Code">
+
+These reflect project work and learning experience, rather than professional expertise in every tool.
 
 ---
 
-## 🤝 Connect with me
+## 🌱 Currently Learning
+
+Exploring Android development and DevOps through:
+
+- Android Studio and Kotlin
+- Linux and Docker
+- AWS
+- Deployment workflows
+- Software architecture
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,linux,docker,aws&amp;theme=dark&amp;perline=4" alt="Currently learning: Android Studio, Kotlin, Linux, Docker, AWS">
+
+These are learning and exploration interests, not claims of professional expertise.
+
+---
+
+## 🎯 Current Focus
+
+- **Java:** Improving programming fundamentals and OOP.
+- **Android:** Learning application development concepts.
+- **DevOps:** Exploring Linux, containers, Git, and deployment.
+- **Engineering:** Understanding software design and backend architecture.
+- **ApexF1:** Planning a simulation-focused engineering portfolio platform.
+
+---
+
+## 📊 GitHub Activity
+
+Explore my public repositories and contribution activity on GitHub.
+
+[View contribution activity](https://github.com/GITvedant) · [Browse public repositories](https://github.com/GITvedant?tab=repositories)
+
+---
+
+## 🤝 Connect With Me
 
 I'm interested in learning from other developers, sharing ideas, and exploring meaningful software projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-GITvedant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITvedant)
+[![Visit GITvedant on GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GITvedant)
+[![Visit Vedant Kanghare on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/vedant-kanghare-3a8b1643b)
+[![Email Vedant Kanghare at vedantkanghare@gmail.com](https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vedantkanghare@gmail.com)
+
+[vedantkanghare@gmail.com](mailto:vedantkanghare@gmail.com)
 
 ---
 
-<div align="center">
-
-### Learn deeply. Build thoughtfully. Improve continuously.
-
-<sub>Thanks for visiting my profile.</sub>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=GITvedant&style=flat-square&color=2563eb"
-  alt="Profile views"
-/>
-
-</div>
+<p align="center"><sub>Thanks for visiting my profile.</sub></p>
