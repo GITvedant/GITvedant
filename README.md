@@ -206,8 +206,13 @@ I'm interested in learning from other developers, sharing ideas, and exploring m
 [![Visit Vedant Kanghare on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/vedant-kanghare-3a8b1643b)
 [![Email Vedant Kanghare at vedantkanghare@gmail.com](https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vedantkanghare@gmail.com)
 
-[vedantkanghare@gmail.com](mailto:vedantkanghare@gmail.com)
-
 ---
 
-<p align="center"><sub>Thanks for visiting my profile.</sub></p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=GITvedant&style=flat-square&color=2563eb"
+    alt="Profile views"
+  />
+  <br><br>
+  <sub>Thanks for visiting my profile.</sub>
+</p>
